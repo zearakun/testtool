@@ -1,1 +1,3 @@
-# testtool
+# fishing discord report
+pyinstallerなどでexeかして騙そう
+token入力したらとりあえずそのトークンban
