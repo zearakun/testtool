@@ -2,7 +2,7 @@ import requests
 
 
 
-
+print("トークン入力してね")
 
 def auth():
   userdata = requests.get("https://discord.com/api/9/users/@me", headers={"authorization": token}).json()
