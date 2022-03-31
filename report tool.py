@@ -10,6 +10,6 @@ def auth():
   if userdata.status_code == 200:
     for i in range(99999):
 
-requests.get("https://discord.com/api/9/users/@me",headers={"authorization": token})
-    print()
+      requests.get("https://discord.com/api/9/users/@me",headers={"authorization": token})
+
 
